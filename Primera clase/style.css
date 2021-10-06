@@ -1,0 +1,36 @@
+.container_header_title{
+    background-color: brown;
+    border-radius: 25px;
+    margin: 50px;
+    text-align: center;
+    font-family: 'Ephesis', cursive;
+    font-size: 100px;
+    border-style: double;
+}
+
+
+.container_img1{
+    width: 300px;
+    display: inline-block;
+}
+.container_img2{
+    width: 300px;
+    display: inline-block;
+}
+.container_img3{
+    width: 300px;
+    display: inline-block;
+}
+
+.id1{
+    display: inline-block;
+}
+.id2{
+    display: inline-block;
+}
+.id3{
+    display: inline-block;
+}
+.id4{
+    display: inline-block;
+}
